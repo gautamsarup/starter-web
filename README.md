@@ -10,3 +10,7 @@ Sample website with plenty of files for demos
 
 Adding some description
 and some more
+
+## Copyright notice
+
+Adding copyright information
